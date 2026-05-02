@@ -1,4 +1,4 @@
-# Obscure old website
+# Obscure's old website
 This is a clone of Hydravision's original Obscure website. I tried to salvage as much as I could from the original website.
 
 ![obscure1](https://i.ibb.co/5htkqTRT/obscurewebsite1.png)
