@@ -1,0 +1,40 @@
+.textes
+{
+font-family: Courier New;
+font-size: 12px;
+line-height: 9pt;
+font-weight: thiner;
+color: #C9C3B8;
+margin-left: 0px;
+margin-right: 15px;
+}
+
+.titres
+{
+font-family: Trebuchet MS;
+font-size: 18px;
+font-weight: 600;
+letter-spacing:0pt;
+color: #623225;
+margin-left: 0px;
+}
+
+.imgs
+{
+border: 1;
+border-color: #542A1E;
+border-style: solid;
+margin-left: 0px;
+margin-right: 0px
+}
+
+.soustitre
+{
+font-family: Courier New;
+font-size: 13px;
+line-height: 10pt;
+font-weight: thiner;
+color: #C9C3B8;
+margin-left: 0px;
+margin-right: 15px;
+}
